@@ -1,6 +1,7 @@
 # Hi, my name is Yadir Vega. 
 ## I'm a Data Engineer 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadir-vega/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadir-vega/) [![Portfolio](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://yadir-vega.azurewebsites.net/)
+
 
 
 
