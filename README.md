@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Yadir Vega.        DevOps Data Engineer 💻 
 
-![Imagen](https://contentstatic.techgig.com/thumb/msid-78956017,width-1200,height-900,resizemode-4/78956017.jpg)
+![Imagen]([https://contentstatic.techgig.com/thumb/msid-78956017,width-1200,height-900,resizemode-4/78956017.jpg](https://t4.ftcdn.net/jpg/05/53/56/05/360_F_553560505_ghYNRGb1zyJFFE9mPcTtYZdT3w41CTsh.jpg))
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadir-vega/) [![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://yadir-vega.azurewebsites.net/)
